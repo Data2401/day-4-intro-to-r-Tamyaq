@@ -1,6 +1,6 @@
 ---
 title: "Intro To R Activity"
-author: "Dr. Shoemaker"
+author: "Tamana Yaqoubi"
 date: "DATA 2401"
 output: 
   html_document: 
